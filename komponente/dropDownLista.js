@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center'
   },
   listaOkvir: {
-    backgroundColor: '#ded4ce',
+    backgroundColor: '#456a7c',
     padding: 5,
     display: 'flex',
     flexDirection: 'column',
