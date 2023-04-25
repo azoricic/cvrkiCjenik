@@ -18,6 +18,7 @@ const Login = (props) => {
       />
       <TextInput
         style={styles.input}
+        secureTextEntry={true}
         onChangeText={onChangePassword}
         value={lozinka}
         placeholder="Password"

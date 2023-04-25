@@ -7,7 +7,7 @@ const firebaseConfig = {
     projectId: "pepperscjenik",
     storageBucket: "pepperscjenik.appspot.com",
     messagingSenderId: "254988158281",
-    appId: "1:254988158281:web:07a280edd2b16990be0698",
+    appId: "1:254988158281:web:6eb9c3dc199551efbe0698",
     databaseURL: 'https://pepperscjenik.firebaseio.com'
   }
 
