@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6dae8fad.js",
+    "static/js/607.b2cd3e61.js": "/static/js/607.b2cd3e61.js",
+    "static/media/vino.png": "/static/media/vino.af5ab8f84ebdd876930c.png",
+    "static/media/coffee.jpg": "/static/media/coffee.3fd1bc87db6a7939cbc6.jpg",
+    "static/media/FontAwesome5_Solid.ttf": "/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/juice.jpg": "/static/media/juice.a2eaec5ea66cbe97a0ee.jpg",
+    "static/media/peppers3.png": "/static/media/peppers3.95d61e4c3bd325bebe8c.png",
+    "static/media/FontAwesome5_Brands.ttf": "/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/viski.jpg": "/static/media/viski.fb496686f012f9e2eae5.jpg",
+    "static/media/AntDesign.ttf": "/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/rakije.webp": "/static/media/rakije.d83e6fae729935c01ef5.webp",
+    "static/media/piva.jpg": "/static/media/piva.94987cd6a2c622a56cac.jpg",
+    "static/media/FontAwesome5_Regular.ttf": "/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.6dae8fad.js.map": "/static/js/main.6dae8fad.js.map",
+    "607.b2cd3e61.js.map": "/static/js/607.b2cd3e61.js.map"
+  },
+  "entrypoints": [
+    "static/js/607.b2cd3e61.js",
+    "static/js/main.6dae8fad.js"
+  ]
+}
